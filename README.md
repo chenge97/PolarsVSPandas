@@ -9,8 +9,8 @@ A Polars vs Pandas benchmark to analyze what are the strong points of each frame
 - Go to work directory and have fun :)
 
 ## References
-https://docs.docker.com/guides/jupyter/ (Jupyter lab Container)
-https://www.kaggle.com/datasets/anandshaw2001/imdb-data (Source of data)
-https://github.com/pola-rs/polars/issues/20475 (Polars slower while filtering)
-https://stackoverflow.com/questions/75530375/polars-vs-pandas-size-and-speed-difference (Polars slower while performing some actions)
-https://docs.pola.rs (Polars documentation)
+- https://docs.docker.com/guides/jupyter/ (Jupyter lab Container)
+- https://www.kaggle.com/datasets/anandshaw2001/imdb-data (Source of data)
+- https://github.com/pola-rs/polars/issues/20475 (Polars slower while filtering)
+- https://stackoverflow.com/questions/75530375/polars-vs-pandas-size-and-speed-difference (Polars slower while performing some actions)
+- https://docs.pola.rs (Polars documentation)
